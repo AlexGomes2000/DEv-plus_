@@ -54,3 +54,5 @@ Me chamo Alex Dos Santos Gomes, tenho 24 anos e sou natural de Maceió Alagoas. 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=AlexGomes2000&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+
+</p>
