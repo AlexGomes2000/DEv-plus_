@@ -1,4 +1,4 @@
-# 🐱‍💻 Alex Gomes
+# 👨‍💻 Alex Gomes
 
 **`Desenvolvedor Web`**
 
